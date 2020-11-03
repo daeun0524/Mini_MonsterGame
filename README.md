@@ -21,7 +21,8 @@ implement in C++
 
 
 기록은 매 플레이마다 가장 좋은 5개만 저장
-password:daeun
+
+* password:daeun
 
 ScreenShots
 ------
