@@ -10,9 +10,13 @@ implement in C++
 H: Player. 사용자 입력 받아서 움직임(w/a/s/d)
 
 Z: zimbie. 제자리 포함 가로세로 대각선 방향으로 1칸씩 총 9가지 이동패턴 존재
+
 V: vampire. 가로 세로로만 1칸씩 이동
+
 G: Ghost. 화면 내 랜덤 지역으로 순간 이동
+
 A,b: Jiangshi. 가로 또는 세로로만 이동 가능. 이동은 1칸 또는 2칸
+
 
 기록은 매 플레이마다 가장 좋은 5개만 저장
 password:daeun
