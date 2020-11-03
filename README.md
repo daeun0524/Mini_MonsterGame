@@ -5,7 +5,7 @@ implement in C++
 
 실행 영상: https://drive.google.com/file/d/1dvCG97yBdWdKj2hJpVRGxKrVFTXqWOYd/view?usp=sharing
 
-[![video](https://img.youtube.com/vi/Kq92TNNxPWY/0.jpg)](https://www.youtu.be/watch?v=Kq92TNNxPWY?t=0s)
+[![video](https://img.youtube.com/vi/Kq92TNNxPWY/0.jpg)](https://www.youtu.be/Kq92TNNxPWY?t=0s)
 
 게임설명
 -----
