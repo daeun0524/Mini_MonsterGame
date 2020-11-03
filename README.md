@@ -3,6 +3,8 @@ implement in C++
 
 콘솔 기반의 미니 게임입니다.
 
+실행 영상: https://drive.google.com/file/d/1dvCG97yBdWdKj2hJpVRGxKrVFTXqWOYd/view?usp=sharing
+
 게임설명
 -----
 #### 여러 종류의 몬스터들(Z,V,G,A,B)과 아이템 경쟁
