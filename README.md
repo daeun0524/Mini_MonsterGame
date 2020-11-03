@@ -1,5 +1,6 @@
 # Mini_MonsterGame
 implement in C++
+
 콘솔 기반의 미니 게임입니다.
 
 게임설명
