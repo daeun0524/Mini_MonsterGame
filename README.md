@@ -6,7 +6,7 @@ ScreenShots
 
 1)시작 전 랭킹 보드
 
-![시작전 랭킹보드](https://user-images.githubusercontent.com/66946182/97946405-b0676780-1dcd-11eb-87c6-7f2262f394e1.png)
+![시작전 랭킹보드](https://user-images.githubusercontent.com/66946182/97946405-b0676780-1dcd-11eb-87c6-7f2262f394e1.png){: width="200" height="300"}
 
 2)실행 전 시작 화면
 
