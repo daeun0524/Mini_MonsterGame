@@ -4,6 +4,7 @@ implement in C++
 콘솔 기반의 미니 게임입니다.
 
 실행 영상: https://drive.google.com/file/d/1dvCG97yBdWdKj2hJpVRGxKrVFTXqWOYd/view?usp=sharing
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=Kq92TNNxPWY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 게임설명
 -----
