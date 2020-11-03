@@ -3,7 +3,7 @@ implement in C++
 
 콘솔 기반의 미니 게임입니다.
 
-실행 영상(누르면 이동합니다)
+-실행 영상(누르면 이동합니다)
 
 [![video](https://img.youtube.com/vi/Kq92TNNxPWY/0.jpg)](https://www.youtube.com/watch?v=Kq92TNNxPWY)
 
